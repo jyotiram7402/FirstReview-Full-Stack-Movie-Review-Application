@@ -1,0 +1,7 @@
+Movie Web App Credeshials
+
+mango db pass:yxZgP1yXQujoSbRe
+
+url:mongodb+srv://jyotiram7402:yxZgP1yXQujoSbRe@cluster0.3l0yoit.mongodb.net/
+
+website :https://account.mongodb.com/account/login?n=https%3A%2F%2Fcloud.mongodb.com%2Fv2%2F65817f832bd212282a23e5e7&nextHash=%23clusters%2Fconnect%3FclusterId%3DCluster0&signedOut=true
