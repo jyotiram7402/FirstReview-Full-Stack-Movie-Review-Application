@@ -1,4 +1,4 @@
-FirstReview - Full Stack Movie Review Application
+#FirstReview - Full Stack Movie Review Application
 Welcome to FirstReview, a comprehensive full stack development course where you'll embark on a journey to create a feature-rich movie review application. Throughout this course, you'll harness the power of various technologies, building a robust application with a separated front-end and back-end architecture.
 
 What You'll Learn
